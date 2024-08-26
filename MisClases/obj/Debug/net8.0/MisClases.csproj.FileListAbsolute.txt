@@ -1,0 +1,33 @@
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\MisClases\bin\Debug\net8.0\MisClases.deps.json
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\MisClases\bin\Debug\net8.0\MisClases.dll
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\MisClases\bin\Debug\net8.0\MisClases.pdb
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.dll
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\refint\MisClases.dll
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.pdb
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\ref\MisClases.dll
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\bin\Debug\net8.0\MisClases.deps.json
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\bin\Debug\net8.0\MisClases.dll
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\bin\Debug\net8.0\MisClases.pdb
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.AssemblyInfoInputs.cache
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.AssemblyInfo.cs
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.csproj.CoreCompileInputs.cache
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.dll
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\refint\MisClases.dll
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.pdb
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\ref\MisClases.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.AssemblyInfoInputs.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.AssemblyInfo.cs
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\refint\MisClases.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\MisClases.pdb
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\bin\Debug\net8.0\MisClases.deps.json
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\bin\Debug\net8.0\MisClases.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\bin\Debug\net8.0\MisClases.pdb
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\MisClases\obj\Debug\net8.0\ref\MisClases.dll

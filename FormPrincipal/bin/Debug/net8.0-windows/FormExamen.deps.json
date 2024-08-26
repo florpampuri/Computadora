@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FormExamen/1.0.0": {
+        "dependencies": {
+          "MisClases": "1.0.0"
+        },
+        "runtime": {
+          "FormExamen.dll": {}
+        }
+      },
+      "MisClases/1.0.0": {
+        "runtime": {
+          "MisClases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormExamen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MisClases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,65 @@
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.FormAlta.resources
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormPrincipal.FormPrincipal.resources
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\FormExamen.exe
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\FormExamen.deps.json
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\FormExamen.runtimeconfig.json
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\FormExamen.dll
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\FormExamen.pdb
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\MisClases.dll
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\MisClases.pdb
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.csproj.Up2Date
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.dll
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\refint\FormExamen.dll
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.pdb
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\ref\FormExamen.dll
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.csproj.AssemblyReference.cache
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.FormAlta.resources
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormPrincipal.FormPrincipal.resources
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.csproj.GenerateResource.cache
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.AssemblyInfoInputs.cache
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.AssemblyInfo.cs
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.csproj.CoreCompileInputs.cache
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.dll
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\refint\FormExamen.dll
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.pdb
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\FormExamen.exe
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\FormExamen.deps.json
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\FormExamen.runtimeconfig.json
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\FormExamen.dll
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\FormExamen.pdb
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\MisClases.dll
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\MisClases.pdb
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.csproj.Up2Date
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.genruntimeconfig.cache
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\ref\FormExamen.dll
+C:\Users\Florencia\Desktop\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.FormModificar.resources
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.csproj.AssemblyReference.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.FormAlta.resources
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.FormModificar.resources
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormPrincipal.FormPrincipal.resources
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.csproj.GenerateResource.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.AssemblyInfoInputs.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.AssemblyInfo.cs
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\refint\FormExamen.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.pdb
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\FormExamen.exe
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\FormExamen.deps.json
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\FormExamen.runtimeconfig.json
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\FormExamen.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\FormExamen.pdb
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\MisClases.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\bin\Debug\net8.0-windows\MisClases.pdb
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.csproj.Up2Date
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\FormExamen.genruntimeconfig.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\Florencia_Pampuri_Examen\Florencia_Pampuri_Examen\FormPrincipal\obj\Debug\net8.0-windows\ref\FormExamen.dll
